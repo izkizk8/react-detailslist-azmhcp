@@ -1,0 +1,25 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@fluent/bundle": "^0.18.0",
+    "@fluent/react": "^0.15.2",
+    "@fluentui/example-data": "^8.4.25",
+    "@fluentui/react": "^8.120.9",
+    "@types/react": "^18.3.8",
+    "@types/react-dom": "^18.3.0",
+    "office-ui-fabric-react": "^7.204.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest"
+  }
+}
